@@ -137,7 +137,7 @@ export default async function HomePage() {
             Join our community of changemakers and help build a more inclusive future for Southeast
             Asia.
           </p>
-          <Link href="/submit-venture" className="">
+          <Link href="/sign-up" className="">
             <Button className="bg-white text-emerald-600 p-8 rounded-lg font-semibold text-lg hover:bg-emerald-50 transition-colors inline-flex items-center">
               <TrendingUp className="mr-2 w-5 h-5" />
               Submit Your Venture Today
